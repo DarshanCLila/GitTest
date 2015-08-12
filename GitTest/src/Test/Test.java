@@ -11,5 +11,7 @@ public class Test {
 		
 		BuddyClass buddy=new BuddyClass();
 		buddy.printName();
+		
+		System.out.println("Added in GItHub");
 	}
 }
