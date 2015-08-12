@@ -7,5 +7,9 @@ public class Test {
 		System.out.println("third line");
 		
 		System.out.println("fourth line");
+		System.out.println("final path");
+		
+		BuddyClass buddy=new BuddyClass();
+		buddy.printName();
 	}
 }
