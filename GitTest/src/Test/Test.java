@@ -5,5 +5,7 @@ public class Test {
 		System.out.println("Git Test");
 		System.out.println("next line");
 		System.out.println("third line");
+		
+		System.out.println("fourth line");
 	}
 }
